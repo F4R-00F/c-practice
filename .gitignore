@@ -47,3 +47,6 @@
 .idea/
 *.swp
 *~
+
+# Compiled binaries folder
+Others/
